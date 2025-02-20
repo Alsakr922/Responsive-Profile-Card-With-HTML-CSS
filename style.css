@@ -165,3 +165,13 @@ body {
   font-size: 1rem;
   font-weight: 500;
 }
+
+.other .heart {
+  color: #e4405f;
+}
+.other .comment {
+  color: #3b67de;
+}
+.other .share {
+  color: #039903;
+}
