@@ -166,12 +166,12 @@ body {
   font-weight: 500;
 }
 
-.other .heart {
+.other .heart i{
   color: #e4405f;
 }
-.other .comment {
+.other .comment i{
   color: #3b67de;
 }
-.other .share {
+.other .share i{
   color: #039903;
 }
